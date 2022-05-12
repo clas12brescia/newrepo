@@ -1,0 +1,6 @@
+In code.cxx you can find new incredible features like:
+* More time losed
+* More lines of codes
+* More std:: written everywhere
+
+Try it now! :)

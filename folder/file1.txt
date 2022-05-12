@@ -1,0 +1,3 @@
+ciao1
+Linea aggiunta lavorando in branch
+dedicato "fix di file1"

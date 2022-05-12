@@ -1,0 +1,8 @@
+Ciao ciao
+
+Valerio
+
+Ciao
+
+Questa linea è stata aggiunta nel nuovo branch. Dopo
+tento di fare il merge selettivamente solo su questo file
