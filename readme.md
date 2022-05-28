@@ -51,7 +51,7 @@ ls -I testarea -I test2 | xargs -i git mv {} test2
 git commit -m "Move test2 files into test2 subdir"
 ```
 
-
+![network graph](./Screenshot\ from\ 2022-05-28\ 16-32-13.png)
 
 
 
